@@ -1,3 +1,3 @@
 # prueba-pagina
 
-(Link) [https://github.com/DanRexd/prueba-pagina/new/main?readme=1]
+(Link) [https://danrexd.github.io/prueba-pagina/]
